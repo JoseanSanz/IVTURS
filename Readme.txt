@@ -15,4 +15,4 @@ The file param.txt determines:
 	
 The input files should containg the data in the KEEL format. You can download this type of data in the KEEL webpage: http://www.keel.es/
 
-The explanation about the execution of the method using the KEEL structure is made in the folder containing the source code of IVTURSfast (Readme file of that folder).
+The explanation about the execution of the method using the KEEL structure is made in the .rar file containing the source code of IVTURSfast: source_code_IVTURSfast.rar (see the Readme file of that folder).
